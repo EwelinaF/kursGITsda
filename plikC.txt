@@ -1,0 +1,1 @@
+Dodanie fonkcjonalności C.
